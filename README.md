@@ -5,8 +5,8 @@
 - `Funcionalidade 2`  : Advinhar um número secreto com menos tentativas
 
 ☑️ Técnicas e tecnologias utilizadas
-* Javascript
-* HTML
+* Javascript ![pngegg](https://github.com/BRENCABRAL/Jogo-02-Alura/assets/140338687/7d6d83f8-160a-403d-9df2-e301cb58eef0)
+* HTML ![pngegg (css)](https://github.com/BRENCABRAL/Jogo-02-Alura/assets/140338687/442bb262-38b3-4b32-a61f-bbcd63a6891e)
 * CSS
 * VSCODE
 * GIT
